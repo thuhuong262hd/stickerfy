@@ -1,0 +1,10 @@
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/
+
+brew services start mongodb-community@4.4
+brew services stop mongodb-community@4.4
+
+
+
+
+Fix issues "handlebars: Access has been denied to resolve the property "title" because it is not an "own property" of its parent."
+https://github.com/handlebars-lang/handlebars.js/issues/1642#issuecomment-575939983
